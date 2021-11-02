@@ -52,7 +52,7 @@ body {
     background-image: url("./images/BANDON-DUNES.jpeg");
     background-size:cover;
     background-position: center;
-    height: 300px;
+    height: 400px;
     margin-bottom: 25px;
 }
 .About-Me {
@@ -90,57 +90,58 @@ p{
     text-align:center;
     width:40%;
 }
+.My-Work a {
+    text-decoration: none;
+    font-size: larger;
+    color: black
+}
 .Run-Buddy {
-    width: 90%;
-    padding:25px;
-    background-image: url(./images/Run\ Buddy.png);
-    width: 90%;
+    width: 65%;
+    background-image: url(./images/run-buddy.png);
     padding: 40px 50px 20px 50px;
     display: block;
     text-align: center;
-    height: 200px;
+    height: 350px;
     background-size:1250px;
-    margin-left: 40px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .Robot-Gladiators {
-    background-image: url(./images/gladiator-14677331821L1.jpeg);
-    display: inline-block;
-    background-size: 300px;
-    padding: 20px 50px 20px 50px;
-    height: 200px;
-    margin: 20px 0px 20px 0px;
-    width: 47%;
-    background-size: 650px;
+    background-image: url(./images/Gladiator.jpeg);
+   display:inline-block;
+   padding: 20px 50px 20px 50px;
+   height:350px;
+   margin-left: 275px;
+   width: 35%;
+   background-size: 650px;
+
 
 }
-.Placeholder {
-    background-image: url(./images/golf1.jpeg);
-    display: inline-block;
-    background-size: 300px;
+.Horiseon {
+    background-image: url(./images/Screen\ Shot\ 2021-11-01\ at\ 8.01.43\ PM.png);
+    display:inline-block;
     padding: 20px 50px 20px 50px;
-    height: 200px;
-    margin: 20px 10px 20px 10px;
-    width: 47%;
+    height:350px;
+    margin: 20px 0px 20px 0px;
+    width: 35%;
     background-size: 650px;
+}
+.Placeholder1 {
+    background-image: url(./images/augusta-national-12.jpeg);
+   display:inline-block;
+   padding: 20px 50px 20px 50px;
+   height:350px;
+   margin-left: 275px;
+   width: 35%;
+   background-size: 650px;
 }
 .Placeholder2 {
-    background-image: url(./images/golf\ 2.jpeg);
-    display: inline-block;
-    background-size: 300px;
-    padding: 20px 50px 40px 50px;
-    height: 200px;
-    margin: 20px 0px 40px 0px;
-    width: 47%;
-    background-size: 650px;
-}
-.Placeholder3 {
-    background-image: url(./images/Golf\ 3.jpeg);
-    display: inline-block;
-    background-size: 300px;
-    padding: 20px 50px 40px 50px;
-    height: 200px;
-    margin: 0px 10px 40px 10px;
-    width: 47%;
+    background-image: url(./images/placeholder.jpeg);
+    display:inline-block;
+    padding: 20px 50px 20px 50px;
+    height:350px;
+    margin: 20px 0px 20px 0px;
+    width: 35%;
     background-size: 650px;
 }
 .Contact-Me {
